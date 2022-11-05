@@ -2,17 +2,17 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='example_publish_pypi_medium',
-    version='0.6',
+    name='url_kit',
+    version='0.1',
     license='MIT',
-    author="Giorgos Myrianthous",
-    author_email='email@example.com',
+    author="Bima sena w.p",
+    author_email='bimasopa12@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/bimasena321/',
+    url='https://github.com/bimasena321/url_kit',
     keywords='example project',
     install_requires=[
-          'scikit-learn',
+          'python3',
       ],
 
 )
